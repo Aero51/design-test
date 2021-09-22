@@ -1,3 +1,25 @@
 <resources>
     <string name="app_name">Meritum Design</string>
+    <string name="weight">PESO</string>
+    <string name="height">ALTURA</string>
+    <string name="nationality">NACIONALIDAD</string>
+    <string name="date_of_birth">FECHA DE NACIMENTO</string>
+    <string name="nickname">APODO</string>
+    <string name="draw">x</string>
+    <string name="home">1</string>
+    <string name="away">2</string>
+    <string name="session">Iniciar sesión</string>
+    <string name="email">Correo Electronico</string>
+    <string name="password">Contraseña</string>
+    <string name="forgot_password">¿Olvidaste tu contraseña?</string>
+    <string name="login">Iniciar Sesión</string>
+
+
+    <string name="stadium_checking">STADIUM CHECKING</string>
+    <string name="win_points_and_coins">Win points and coins</string>
+    <string name="lineup">LINEUP CREATE</string>
+    <string name="sign_in_with">or sign in with</string>
+    <string name="facebook_login">Continue with Facebook</string>
+    <string name="google_login">Continue with Google</string>
+    <string name="player_number">No.</string>
 </resources>
